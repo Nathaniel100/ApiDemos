@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="demoNames">
+        <item>Accessibility</item>
+    </string-array>
+</resources>
