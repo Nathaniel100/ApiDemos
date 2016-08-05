@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="demoNames">
+    <string-array name="demoItems">
         <item>Accessibility</item>
+        <item>Animation</item>
+        <item>App</item>
+        <item>Content</item>
+        <item>Graphics</item>
+        <item>Hardware</item>
+        <item>Media</item>
+        <item>NFC</item>
+        <item>OS</item>
+        <item>Preference</item>
+        <item>Security</item>
+        <item>Views</item>
+    </string-array>
+
+    <string-array name="animationItems">
+        <item>Activity Transition</item>
+        <item>Bouncing Balls</item>
+        <item>Cloning</item>
+        <item>Custom Evaluator</item>
+        <item>Default Layout Animations</item>
+        <item>Events</item>
+        <item>Hide-Show Animations</item>
+        <item>Layout Animations</item>
+        <item>Loading</item>
+        <item>Multiple Properties</item>
+        <item>Path Animations</item>
+        <item>Reversing</item>
+        <item>Seeking</item>
+        <item>Simple Transitions</item>
+        <item>View Flip</item>
     </string-array>
 </resources>
