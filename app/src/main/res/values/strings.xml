@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">ApiDemos</string>
     <string name="run">Run</string>
+    <string name="play">play</string>
 </resources>

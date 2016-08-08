@@ -25,6 +25,8 @@
         </activity>
         <activity android:name=".animation.TransitionDetailsActivity">
         </activity>
+        <activity android:name=".animation.CustomEvaluator">
+        </activity>
     </application>
 
 </manifest>

@@ -46,6 +46,9 @@ public class AnimationsActivity extends AppCompatActivity implements AdapterView
             case 2:
                 AnimationCloning.start(this);
                 break;
+            case 3:
+                CustomEvaluator.start(this);
+                break;
             default:
                 break;
         }
