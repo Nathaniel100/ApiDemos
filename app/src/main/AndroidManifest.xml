@@ -19,6 +19,8 @@
         </activity>
         <activity android:name=".animation.AnimationCloning">
         </activity>
+        <activity android:name=".animation.AnimationBouncingBalls">
+        </activity>
     </application>
 
 </manifest>

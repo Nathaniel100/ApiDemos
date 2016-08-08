@@ -31,6 +31,9 @@ public class AnimationsActivity extends AppCompatActivity implements AdapterView
     @Override
     public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
         switch (i) {
+            case 1:
+                AnimationBouncingBalls.start(this);
+                break;
             case 2:
                 AnimationCloning.start(this);
                 break;
