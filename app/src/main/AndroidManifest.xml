@@ -21,6 +21,10 @@
         </activity>
         <activity android:name=".animation.AnimationBouncingBalls">
         </activity>
+        <activity android:name=".animation.TransitionActivity">
+        </activity>
+        <activity android:name=".animation.TransitionDetailsActivity">
+        </activity>
     </application>
 
 </manifest>
