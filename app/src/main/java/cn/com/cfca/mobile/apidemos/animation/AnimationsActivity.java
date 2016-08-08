@@ -49,6 +49,9 @@ public class AnimationsActivity extends AppCompatActivity implements AdapterView
             case 3:
                 CustomEvaluator.start(this);
                 break;
+            case 4:
+                DefaultLayoutAnimation.start(this);
+                break;
             default:
                 break;
         }

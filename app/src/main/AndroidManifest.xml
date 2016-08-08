@@ -27,6 +27,8 @@
         </activity>
         <activity android:name=".animation.CustomEvaluator">
         </activity>
+        <activity android:name=".animation.DefaultLayoutAnimation">
+        </activity>
     </application>
 
 </manifest>
