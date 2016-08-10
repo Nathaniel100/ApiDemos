@@ -143,7 +143,7 @@ public class CustomEvaluator extends AppCompatActivity {
             super.onDraw(canvas);
 
             canvas.save();
-            canvas.translate(ballXYHolder.getXY().getX(), ballXYHolder.getXY().getY());
+            canvas.translate(ballXYHolder.getBall().getX(), ballXYHolder.getBall().getY());
             ballXYHolder.getBall().getShape().draw(canvas);
             canvas.restore();
         }

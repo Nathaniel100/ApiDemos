@@ -29,6 +29,8 @@
         </activity>
         <activity android:name=".animation.DefaultLayoutAnimation">
         </activity>
+        <activity android:name=".animation.AnimationEvents">
+        </activity>
     </application>
 
 </manifest>

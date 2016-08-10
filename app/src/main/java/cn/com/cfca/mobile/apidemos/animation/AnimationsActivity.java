@@ -52,6 +52,9 @@ public class AnimationsActivity extends AppCompatActivity implements AdapterView
             case 4:
                 DefaultLayoutAnimation.start(this);
                 break;
+            case 5:
+                AnimationEvents.start(this);
+                break;
             default:
                 break;
         }

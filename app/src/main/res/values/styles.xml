@@ -8,4 +8,15 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+
+    <style name="AppTextAppearance" />
+    <style name="AppTextAppearance.Label" parent="TextAppearance.AppCompat.Small">
+        <item name="android:textColor">@color/animation_events_text_passed</item>
+    </style>
+    <style name="AppTextAppearance.Passed" parent="TextAppearance.AppCompat.Small">
+        <item name="android:textColor">@color/animation_events_text_passed</item>
+    </style>
+    <style name="AppTextAppearance.NotPassed" parent="TextAppearance.AppCompat.Small">
+        <item name="android:textColor">@color/animation_events_text_not_passed</item>
+    </style>
 </resources>

@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">ApiDemos</string>
     <string name="run">Run</string>
-    <string name="play">play</string>
+    <string name="play">PLAY</string>
+    <string name="cancel">CANCEL</string>
+    <string name="end">END</string>
+    <string name="start">START</string>
+    <string name="repeat">REPEAT</string>
+    <string name="end_immediately">End Immediately</string>
 </resources>
